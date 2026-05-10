@@ -1,0 +1,31 @@
+h1 {
+    border:1px solid blue;
+    color: blue;
+    font-size: 20 px
+}
+
+p{
+    border:1px solid blue;
+    border-radius:10px;
+    color: gray;
+}
+
+.style1{
+    color: pink;
+}
+
+a{
+    font-size: 40 px;
+}
+
+/* a:hover{
+    color: aqua;
+} */
+
+a:active{
+    background-color: blueviolet;
+}
+
+img:hover{
+    border: 10px solid black;
+}
